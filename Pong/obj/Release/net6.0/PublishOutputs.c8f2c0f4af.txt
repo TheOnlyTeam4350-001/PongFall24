@@ -1,0 +1,11 @@
+C:\Users\timgr\Source\Repos\TheOnlyTeam4350-001\PongFall24\Pong\obj\Docker\publish\Pong.exe
+C:\Users\timgr\Source\Repos\TheOnlyTeam4350-001\PongFall24\Pong\obj\Docker\publish\appsettings.Development.json
+C:\Users\timgr\Source\Repos\TheOnlyTeam4350-001\PongFall24\Pong\obj\Docker\publish\appsettings.json
+C:\Users\timgr\Source\Repos\TheOnlyTeam4350-001\PongFall24\Pong\obj\Docker\publish\Pong.dll
+C:\Users\timgr\Source\Repos\TheOnlyTeam4350-001\PongFall24\Pong\obj\Docker\publish\Pong.deps.json
+C:\Users\timgr\Source\Repos\TheOnlyTeam4350-001\PongFall24\Pong\obj\Docker\publish\Pong.runtimeconfig.json
+C:\Users\timgr\Source\Repos\TheOnlyTeam4350-001\PongFall24\Pong\obj\Docker\publish\Pong.pdb
+C:\Users\timgr\Source\Repos\TheOnlyTeam4350-001\PongFall24\Pong\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\Users\timgr\Source\Repos\TheOnlyTeam4350-001\PongFall24\Pong\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\timgr\Source\Repos\TheOnlyTeam4350-001\PongFall24\Pong\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\timgr\Source\Repos\TheOnlyTeam4350-001\PongFall24\Pong\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
